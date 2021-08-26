@@ -4,8 +4,8 @@ _read all the tasks before starting_
 
 ## Your tasks:
 
-- [ ] Fork this repository to your github
-- [ ] With github desktop clone the repo and open it in vs code
+- [X] Fork this repository to your github
+- [ ]X With github desktop clone the repo and open it in vs code
 - [ ] Fulfill the user stories and get all of the tests to pass
 - [ ] For <strong>each</strong> user story submit a commit to github
 - [ ] Give it your own personal style
@@ -18,8 +18,8 @@ _read all the tasks before starting_
 - [ ] Bonus - add local img to your repo and add it to your website
 
 Use HTML and CSS to complete this project. Happy coding!
-
-User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
+<!-- 
+User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation). -->
 
 User Story #2: Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.
 
