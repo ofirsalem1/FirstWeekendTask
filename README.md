@@ -33,7 +33,7 @@ User Story #1: I can see a main element with a corresponding id="main-doc", whic
 
 <!-- User Story #7: The .main-section elements should contain at least 5 li items total (not each). -->
 
-User Story #8: I can see a nav element with a corresponding id="navbar".
+<!-- User Story #8: I can see a nav element with a corresponding id="navbar". -->
 
 User Story #9: The navbar element should contain one header element which contains text that describes the topic of the technical documentation.
 
