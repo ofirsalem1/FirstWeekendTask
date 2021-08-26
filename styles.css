@@ -1,6 +1,14 @@
 #navbar {
     position: fixed;
+    top: 10px;
+    left: 30px;
 }
-@media{
-    
+h1{
+    margin-top: 80px;  
+}
+@media {
+
+}
+#topic1{
+    margin-top: 80px;
 }
