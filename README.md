@@ -37,9 +37,9 @@ User Story #1: I can see a main element with a corresponding id="main-doc", whic
 
 <!-- User Story #9: The navbar element should contain one header element which contains text that describes the topic of the technical documentation. -->
 
-User Story #10: Additionally, the navbar should contain link (a) elements with the class of nav-link. There should be one for every element with the class main-section.
+<!-- User Story #10: Additionally, the navbar should contain link (a) elements with the class of nav-link. There should be one for every element with the class main-section.
 
-User Story #11: The header element in the navbar must come before any link (a) elements in the navbar.
+User Story #11: The header element in the navbar must come before any link (a) elements in the navbar. -->
 
 User Story #12: Each element with the class of nav-link should contain text that corresponds to the header text within each section (e.g. if you have a "Hello world" section/header, your navbar should have an element which contains the text "Hello world").
 
