@@ -3,7 +3,9 @@ body {
     background-color: rgb(255, 233, 191);
     padding: 50px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width: 90%;
+    width: 80%;
+    margin-left: 180px;
+    margin-right: 180px;
     }
 
 @media (min-width: 800px) {
@@ -34,8 +36,10 @@ div p,div h3,div {
 
 #navbar {
     position: fixed;
-    top:10px;
-    left: 10px; 
+    top:0;
+    left:0;
+    width: 150px;
+    height: 100%; 
     text-align:center;
     border-style: solid;
     border-color: blanchedalmond;
@@ -61,5 +65,10 @@ h1 {
 
 html {
     scroll-behavior: smooth;
+}
+
+#last{
+    margin-left: 100px;
+
 }
 
